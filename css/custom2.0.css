@@ -1,0 +1,23 @@
+
+nav.navbar.bootsnav ul.nav > li > a {
+  position: relative;
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+  text-transform: uppercase;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 30px;
+}
+
+.about-box-main .container .row span {
+  color: #3FE73F;
+   
+}
+
+.form-control {
+  display: inline-block;
+  width: 80%; 
+  margin-top: 10px;
+}
